@@ -1,7 +1,5 @@
 <?php
-  /** Plugin declaration
-   * extends MantisPlugin
-   * Example plugin that implements Jquery files
+  /** PasswordStrength Plugin declaration
    */
 class PasswordStrengthPlugin extends MantisPlugin
  {
@@ -16,9 +14,9 @@ class PasswordStrengthPlugin extends MantisPlugin
       $this->requires = array(
         "MantisCore" => "2.0.0",
       );
-      $this->author = 'Ryltar';
+      $this->author = 'Guillaume Martin';
       $this->contact = 'guillaumemartin.dev@gmail.com';
-      $this->url = 'yourwebsite.org';
+      $this->url = 'https://github.com/ryltar/PasswordStrength';
     }
     # Hooked functions runs when the event is triggered
     # Here we need to display a '<scrit>' link into Footer
