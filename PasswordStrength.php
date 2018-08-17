@@ -24,7 +24,7 @@ class PasswordStrengthPlugin extends MantisPlugin
       }
     function scripts()
       {
-        echo '<script type="text/javascript" src="' . plugin_file( 'PasswordEnhancement.js' ) . '"></script>';
+        echo '<script type="text/javascript" src="' . plugin_file( 'PasswordStrength.js' ) . '"></script>';
       }
  }
 ?>
