@@ -1,6 +1,6 @@
 # Features
 
-A little Mantis plugin, which forces users to use a strong password
+A little Mantis plugin, which forces users to use a strong password at client side
 
 What does **strong password** mean? hereafter, the following rules :
 * **Must** contain at least 8 characters
