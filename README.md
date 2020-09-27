@@ -9,10 +9,6 @@ What does **strong password** mean? hereafter, the following rules :
 * **Must** contain at least one number
 * **Must** contain at least one special character
 
-![Alt text](https://image.noelshack.com/fichiers/2018/33/5/1534508385-first.png?raw=true "account_page.php")
-
-![Alt text](https://image.noelshack.com/fichiers/2018/33/5/1534508590-deux.png?raw=true "verify.php")
-
 # How to install it
 
 1. Copy PasswordStrength folder into plugins folder.
